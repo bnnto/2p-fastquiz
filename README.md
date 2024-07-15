@@ -1,1 +1,1 @@
-# 2p-fastquiz
+Jogo de quiz para duas pessoas feito com colaboração da minha equipe, Lucas Fernandes e Arthur Amaral para um projeto de hardware da professora Ivna Valença, onde tinhamos que criar um jogo com hardware (leds, botões, raspberrypi) e utilizar python para fazer com que ele funcione.
